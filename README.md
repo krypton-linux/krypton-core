@@ -19,11 +19,3 @@ pik6c(Kaedehito)様のミラーサーバー
 Server=https://krypton-linux.pik6c.tech/downloads
 SigLevel=Never
 ```
-
-GitHack CDN
-
-```pacman.conf
-[krypton-core]
-Server=https://rawcdn.githack.com/krypton-linux/krypton-core/main/repo
-SigLevel=Never
-```
