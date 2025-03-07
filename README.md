@@ -4,7 +4,7 @@ Krypton Linuxのpacmanパッケージリポジトリ。
 
 # 利用可能なサーバー
 
-Itsuki0222の管理するメインサーバー(推奨)
+メインサーバー(推奨)
 
 ```pacman.conf
 [krypton-core]
