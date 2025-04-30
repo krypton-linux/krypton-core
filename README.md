@@ -12,7 +12,9 @@ Server=https://krypton-linux.com/krypton-core/repo
 SigLevel=Never
 ```
 
-pik6c(Kaedehito)様のミラーサーバー
+~~pik6c(Kaedehito)様のミラーサーバー~~
+
+*注: なぜかアカウントが消えてました。ミラーも消えてました。わけがわかりません。心配です。とにかくこのミラーは使えません*
 
 ```pacman.conf
 [krypton-core]
