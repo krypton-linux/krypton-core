@@ -27,4 +27,5 @@ GitHub pages
 ```pacman.conf
 [krypton-core]
 Server=https://krypton-linux.github.io/krypton-core/repo
+SigLevel=Never
 ```
